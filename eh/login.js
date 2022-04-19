@@ -9,6 +9,12 @@ if (user === "corp") {
         x.src = "https://cdn.jsdelivr.net/gh/banana-nana/eh@master/eh/main.js";
         x.onload = alert("Loaded Banana-corp - Main Tesing!");
         document.head.appendChild(x);
+    }else {
+    alert("Wrong.")
+    console.log("User got the password wrong or is non vaild")
     }
+}else {
+    alert("Wrong.")
+    console.log("User got the username wrong or is non vaild")
 }
 
