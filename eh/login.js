@@ -18,3 +18,4 @@ if (user === "corp") {
     console.log("User got the username wrong or is non vaild")
 }
 
+ 
