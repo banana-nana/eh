@@ -1,2 +1,2 @@
 # eh
-some javascript code
+some javascript code for a up and coming bookmarklet
