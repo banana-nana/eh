@@ -6,8 +6,7 @@ if (user === "corp") {
     if (pass === "banana") {
         alert("Welcome back, " + user);
         var x = document.createElement("script");
-        x.src = "https://cdn.jsdelivr.net/gh/banana-nana/eh@master/eh/main.js";
-        x.onload = alert("Loaded Banana-corp - Main Tesing!");
+        x.src = "https://cdn.jsdelivr.net/gh/banana-nana/eh@master/eh/main.js";);
         document.head.appendChild(x);
     }else {
     alert("Wrong.")
