@@ -5,3 +5,11 @@ if (h === "Quizizz") {
         x.src = "https://cdn.jsdelivr.net/gh/gbaranski/quizizz-cheat@master/dist/bundle.js";);
         document.head.appendChild(x);
 }
+  $(document).ready(function() {
+    if (window.location.href.indexOf("join") > -1) {
+      alert("Can not inject due to its on join");
+    }else {
+    alert("Injecing");
+    }
+  });
+
