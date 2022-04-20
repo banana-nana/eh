@@ -1,4 +1,4 @@
-alert("Injecting Hacks);
+alert("Injecting Hacks");
       var h = prompt("Blooket or Quizizz hacks", "Quizizz");
 if (h === "Quizizz") {
   var x = document.createElement("script");
