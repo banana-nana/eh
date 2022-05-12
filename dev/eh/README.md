@@ -1,4 +1,4 @@
-# dev/eh | eh 
+# dev/eh
 
 the **eh** bookmarklet code
 
